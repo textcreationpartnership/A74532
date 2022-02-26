@@ -1,0 +1,206 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ordinance for the relief of creditors and poor prisoners. Thursday June 8. 1654. Ordered by his Highness the Lord Protector, and his council, that this ordinance be forthwith printed and published. Henry Scobell, Clerk of the Council.</title>
+            <title>Orders in Council. 1654-06-08.</title>
+            <author>England and Wales. Lord Protector (1653-1658 : O. Cromwell)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74532</idno>
+            <idno type="STC">Thomason E1064_13</idno>
+            <idno type="STC">ESTC R210212</idno>
+            <idno type="EEBO-CITATION">99869031</idno>
+            <idno type="PROQUEST">99869031</idno>
+            <idno type="VID">169213</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A74532)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169213)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 159:E1064[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ordinance for the relief of creditors and poor prisoners. Thursday June 8. 1654. Ordered by his Highness the Lord Protector, and his council, that this ordinance be forthwith printed and published. Henry Scobell, Clerk of the Council.</title>
+                  <title>Orders in Council. 1654-06-08.</title>
+                  <author>England and Wales. Lord Protector (1653-1658 : O. Cromwell)</author>
+                  <author>England and Wales. Council of State. aut</author>
+               </titleStmt>
+               <extent>[2], 373-382 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by William du-Gard and Henry Hills, printers to His Highness the Lord Protector,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1654.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The final leaf bears an order to print dated: June 9. 1654.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Debt --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169213:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 72 -->
+            <p>AN ORDINANCE For Relief of CREDITORS AND Poor Priſoners.</p>
+            <figure>
+               <figDesc>seal of the Commonwealth</figDesc>
+            </figure>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>Thurſday June 8. 1654.</date>
+                           </dateline>
+                        </opener>
+                        <p>ORdered by his Highneſs the Lord Protector, and His Council, That this Ordinance be forthwith Printed and Publiſhed.</p>
+                        <closer>
+                           <signed>
+                              <hi>Henry Scobell,</hi> Clerk of the Council.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>London,</hi> Printed by <hi>William du-Gard</hi> and <hi>Henry Hills,</hi> Printers to His Highneſs the Lord Protector, 1654.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="373" facs="tcp:169213:2"/>
+            <!-- PDF PAGE 73 -->
+            <head>
+               <figure>
+                  <figDesc>seal of the Commonwealth</figDesc>
+               </figure>
+            </head>
+            <head>AN ORDINANCE For Relief of CREDITORS AND Poor Priſoners.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas by a late Act of Parlament, En<g ref="char:EOLhyphen"/>tituled, <hi>An Act for the Relief of Creditors and Poor Priſoners, Henry Proby, Peter Elliſton,</hi> and others in the ſaid Act named, or any three or more of them were thereby, as to all perſons that ſtood committed on the fift of <hi>October,</hi> one thouſand
+<pb n="374" facs="tcp:169213:3"/>
+               <!-- PDF PAGE 74 -->ſix hundred fifty three, or which ſhould be com<g ref="char:EOLhyphen"/>mitted before the twentieth day of the ſaid Moneth of <hi>October,</hi> to the <hi>Upper-Bench</hi> Priſon, or to the Priſon of the <hi>Fleet, Gatehouſe</hi> in <hi>Weſt<g ref="char:EOLhyphen"/>minſter, Counter</hi> in <hi>Surrey,</hi> or Priſon in <hi>White-Chappel,</hi> in any Civil cauſe, and not from thence lawfully diſcharged, made Iudges to hear and determine the Cauſes of ſuch perſons im<g ref="char:EOLhyphen"/>priſonment, and of the eſcape of ſuch Priſo<g ref="char:EOLhyphen"/>ners in a ſummary way, and to do as by the ſaid Act is further directed. The execution of which Act and of the Powers &amp; Authorities given by the ſame by Ordinance, of His High<g ref="char:EOLhyphen"/>neſs the Lord Protector and his Council, for weighty Cauſes, was ſuſpended until the one and thirtieth day of <hi>May,</hi> one thouſand ſix hun<g ref="char:EOLhyphen"/>dred fifty four. And foraſmuch as upon ſun<g ref="char:EOLhyphen"/>dry Complaints already made to his Highneſs the Lord Protector and His Council, and due conſideration had that the Lands, Heredita<g ref="char:EOLhyphen"/>ments, Goods and Chactles of divers other perſons then the ſaid Priſoners, whereof ſuch perſons were lawfully ſeized and poſſeſt at the time of the making the ſaid Act, may by con<g ref="char:EOLhyphen"/>ſtruction of ſeveral Clauſes, therein be ſold, leaſed, granted, or otherwiſe diſpoſed by the Iudges in the ſaid Act appointed for ſatisfac<g ref="char:EOLhyphen"/>tion of the Creditors of ſuch Priſoners as a<g ref="char:EOLhyphen"/>foreſaid, as for the ſaid Priſoners debts not<g ref="char:EOLhyphen"/>withſtanding that ſuch other perſons ſo ſeized and poſſeſſed, had at the time of making the ſaid Act as ſufficient an Eſtate in, and right to, ſuch Lands, Goods, and Hereditaments according to the Law to all intents, as any other perſon had or hath in any his Lands, Goods, or Hereditaments whatſoever.</p>
+            <p>
+               <pb n="375" facs="tcp:169213:3"/>
+               <!-- PDF PAGE 74 -->
+Be it therefore Ordained by his Highneſs the Lord Protector by the advice of his Coun<g ref="char:EOLhyphen"/>cil, That <hi>Nathaniel Bacon, Francis Bacon, Ar<g ref="char:EOLhyphen"/>thur Barnardiſton, Peter Elliſton, John Parker, Hen<g ref="char:EOLhyphen"/>ry Pitt, Edmund Giles, Robert Aldworth, John VVilsby, Peter Breereton, Clement Ireton,</hi> and <hi>Ro<g ref="char:EOLhyphen"/>bert Warcupp, <hi>
+                     <abbr>Eſqs</abbr>
+                  </hi>
+               </hi> or any five or more of them, and no other perſon, ſhall be, and hereby are made Iudges to hear and determine from the eight day of <hi>June</hi> inſtant, the cauſes of impri<g ref="char:EOLhyphen"/>ſonment of any ſuch Priſoners, counted as a<g ref="char:EOLhyphen"/>foreſaid to any the Priſons before mentioned, and to do and execute in perſuance of the ſaid Act for the relief of Creditors and poor Priſon<g ref="char:EOLhyphen"/>ers, according to the explanations and alterati<g ref="char:EOLhyphen"/>ons thereof, made by this preſent Ordinance, and not otherwiſe: That is to ſay, that all the Eſtate Real or Perſonal, of any ſuch Priſoner, or other perſon, for whoſe debt the ſaid Priſo<g ref="char:EOLhyphen"/>ner is impriſoned, whereof he was ſeized or poſſeſſed to his own uſe in poſſeſſion, reverſion, or remainder the ſaid fifth day of <hi>October</hi> one thouſand ſix hundred fifty three, or ſithence, or whereof he ſhall be ſeized or poſſeſſed before the fifth day of <hi>October</hi> one thouſand ſix hundred fifty four, or which any perſon or perſons was or were the ſaid fifth day of <hi>October</hi> one thou<g ref="char:EOLhyphen"/>ſand ſix hundred fifty three, or ſithence, or at any time before the ſaid fifth day of <hi>October</hi> next, ſhall become ſeized or poſſeſſed of in truſt for any ſuch Priſoner, or other perſon, for whoſe debt the ſaid Priſoner was impriſoned, and which ſuch Priſoner or Priſoners or other Perſon, the ſaid fifth day of <hi>October,</hi> or any time ſithence might, or hereafter may, before the ſaid fifth of <hi>October</hi> next, lawfully convey or
+<pb n="376" facs="tcp:169213:4"/>
+               <!-- PDF PAGE 75 -->diſpoſe for payment of his or their Debts by Law or Equity, ſhall and may by the ſaid Iud<g ref="char:EOLhyphen"/>ges or any five or more of them, be leaſed, gran<g ref="char:EOLhyphen"/>ted, charged, ſold, or any otherwiſe diſpoſed, for payment of ſuch Priſoners or other per<g ref="char:EOLhyphen"/>ſons Debts.</p>
+            <p>Provided alwaies that upon any ſale or o<g ref="char:EOLhyphen"/>ther diſpoſing of ſuch eſtate as aforeſaid, all debts due to the Common wealth, Debts ſe<g ref="char:EOLhyphen"/>cured or due by Statutes, Iudgements, or Recognizances ſhall be firſt paid, to wit, the principal Debt, Intereſt and Charges and no more, in ſuch Order as by Law they ought to have been before the making of the ſaid Act for relief of Creditors and poor Priſoners, and if any the ſaid Priſoners, or other perſons for whoſe debt any ſuch Priſoner was impriſoned, have heretofore made any conveyance or ſettle<g ref="char:EOLhyphen"/>ment of any Lands, Tenements or Heredita<g ref="char:EOLhyphen"/>ments, Goods or Chattles to any perſon or perſons, with power of revocation in ſuch Priſoner or Priſoners, or other ſuch perſon, which power of revocation might have been by ſuch Priſoner or Priſoners, or other per<g ref="char:EOLhyphen"/>ſous, executed the ſaid fifth of <hi>October</hi> one thouſand ſix hundred fifty three, or ſince, or may be executed before the fifth of <hi>October</hi> one thouſand ſix hundred fifty four, all ſuch Lands, Tenements, and Hereditaments, Goods and Chattles, ſhall be ſold, leaſed or diſpoſed by the Iudges hereby appointed, or any three or more of them, as fully to all intents, for pay<g ref="char:EOLhyphen"/>ment of ſuch Priſoners or other perſons debts, as if the ſaid revocation had been actually made by ſuch Priſoner or perſon according to the true intent and meaning of the ſaid pow<g ref="char:EOLhyphen"/>er
+<pb n="377" facs="tcp:169213:4"/>
+               <!-- PDF PAGE 75 -->of revocation. And the ſaid Iudges, or any five or more of them, ſhall have power to examine any Mortgage formerly made of any Lands, Tenements, or Hereditaments, or any Leaſe or Leaſes upon condition, by any ſuch Priſoner or other perſon, or any his An<g ref="char:EOLhyphen"/>ceſtors, granted for ſecurity of money lent, and where any ſuch Priſoner, or other perſon, hath lawful and equitable right of Entry, or any condition broken or right of Redemption in Law or Equity upon any Mortgage ſo made and not forfeited by the ſpace of ſeven years laſt paſt, the ſaid Iudges, firſt ſatisfi<g ref="char:EOLhyphen"/>ing the principal money for which ſuch Lands or Hereditaments, Goods or Chattles were mortgaged, &amp; all intereſt &amp; other charges grown due, may ſell or otherwiſe diſpoſe of all ſuch Lands and Hereditaments, Goods and Chat<g ref="char:EOLhyphen"/>tles, Leaſed or Mortgaged, as aforeſaid, for payment of ſuch Priſoners, or other perſons debts, and the ſaid Iudges or any five or more of them, are hereby further authoriſed to examine all fraudulent Grants, Leaſes and Conveyances whatſoever made by any ſuch Priſoners, or other perſon for whoſe debt any ſuch priſoner was impriſoned as a<g ref="char:EOLhyphen"/>foreſaid of any their Lands, Heredita<g ref="char:EOLhyphen"/>ments, goods or Chattles, and all Iudgements, Statutes, Recogniſances, or Bonds by them entered into, and any other Act or Acts done, with intent to defraud Creditors, which by any Law or Statute now in force (other then by the ſaid Act for relief of Creditors and poor priſoners) are declared to be void againſt Creditors, and upon due proof made unto a Iury of any ſuch fraudulent Grant, Act or
+<pb n="378" facs="tcp:169213:5"/>
+               <!-- PDF PAGE 76 -->conveyance, or of any wilfull concealing ſuch fraud, the ſaid Iudges may ſell and diſpoſe for payment of ſuch Debts as are before men<g ref="char:EOLhyphen"/>tioned, all ſuch Lands, Hereditaments, Goods, and Chattles ſo granted, conveyed, extended or to be extended, had or to be had in execution, in ſuch manner as is before mentioned touching other the Lands, Goods or Hereditaments, of any ſuch Priſoner or other perſons, and puniſh any ſuch concealment of fraud as by a<g ref="char:EOLhyphen"/>ny Law or Statute in force (other then the ſaid Act for relief of Creditors and poor Pri<g ref="char:EOLhyphen"/>ſoners) is appointed and Ordained, and in caſe any ſuch priſoner hath eſcaped out of any the ſaid priſons ſince the fifth day of <hi>October</hi> one thouſand ſix hundred fifty three, or hereafter ſhall eſcape before the fifth day of <hi>October</hi> one thouſand ſix hundred fifty four, upon du proof made or to be made of ſuch eſcape, the eſtate and truſts of eſtate reall and perſonal of ſuch priſoner eſcaped, ſhall be ſold and dispoſed by the ſaid Iudges for ſatisfaction of the Credi<g ref="char:EOLhyphen"/>tors, at whoſe ſuit ſuch priſoner was impri<g ref="char:EOLhyphen"/>ſoned, in like manner (and no otherwiſe) as they might have ſold or dispoſed the Eſtate reall and perſonal, if ſuch priſoner had ſtill remained in cuſtody.</p>
+            <p>Provided alwaies, That upon any Sale, Leaſe, or other dispoſition to be made as a<g ref="char:EOLhyphen"/>foreſaid of any priſoner, or other perſons real or perſonal Eſtate, the ſaid Iudges ſhall o<g ref="char:EOLhyphen"/>penly put a value upon the eſtate declared to be Sold, Leaſed, or Dispoſed, and before the Sale or Dispoſition thereof, the ſaid priſoner or other perſon, concerned, his heir, execu<g ref="char:EOLhyphen"/>tor or adminiſtrator, as the caſe requireth,
+<pb n="379" facs="tcp:169213:5"/>
+               <!-- PDF PAGE 76 -->ſhall have notice thereof, and if ſuch Priſoner or other perſon concerned, his Heir, Executor, or Adminiſtrator ſhall within ſix weeks pay in ready money, as much as the ſaid Eſtate, to be ſold or otherwiſe diſpoſed, was valued at as aforeſaid, or otherwiſe give ſecurity to the Cre<g ref="char:EOLhyphen"/>ditors for the ſaid ſum to their liking, the ſaid Iudges ſhall forbear to make ſale of ſuch Eſtate; but in default of ſuch payment, or ſecurity given, they ſhall proceed to ſale, or other diſpoſition thereof at the higheſt rate they can ſell the ſame at, provided it be not leſs than the value of them formerly ſet as aforeſaid. And all and every ſale or other diſ<g ref="char:EOLhyphen"/>poſition of any Priſoner or other perſons Eſtate made as aforeſaid, ſhall be good and effectual in Law againſt ſuch Priſoner and ſuch other perſons, their Truſtees and all and every their Heirs general or ſpecial claiming by diſcent to all intents and purpoſes, ſaving always to all perſons, other than ſuch whoſe Eſtates may be ſold as aforeſaid, their re<g ref="char:EOLhyphen"/>ſpective right to any Lands, Hereditaments, Goods or Chattels, that ſhall happen to be ſold or diſpoſed as aforeſaid; as if the ſaid Act for Relief of Creditors and poor Pri<g ref="char:EOLhyphen"/>ſoners, and this preſent Ordinance, had not been made.</p>
+            <p>And it is hereby further Ordained, That no Eſtate real or perſonal of any Priſoner or other perſon ſhall be taken to be any Eſtate to be ſold, diſcharged or diſpoſed within the meaning of the ſaid former Act entituled <hi>An Act for Relief of Creditors and poor Priſoners,</hi> other than ſuch Eſtates as are by this pre<g ref="char:EOLhyphen"/>ſent Ordinance declared to be Sold and Diſ<g ref="char:EOLhyphen"/>poſed
+<pb n="380" facs="tcp:169213:6"/>
+               <!-- PDF PAGE 77 -->for payment of Debts, in manner be<g ref="char:EOLhyphen"/>fore expreſſed. And that no Priſoner ſhall be accounted a Priſoner whoſe Eſtate is to be Sold or Diſpoſed within the meaning of the ſaid Act, but ſuch as were actually Priſoners the fifth day of <hi>October,</hi> One thou<g ref="char:EOLhyphen"/>ſand ſix hundred fifty three, or before the twentieth of <hi>October</hi> then next following, or who being Priſoners as aforeſaid, are ſince dead, or ſhall dy before the fifth of <hi>October</hi> next, leaving their Debts undiſchar<g ref="char:EOLhyphen"/>ged.</p>
+            <p>Provided alſo, That the ſaid Iudges ſhall not intermeddle in the Sale or Diſpoſing of any Land Ordered or Decreed to be ſold for payment of Debts by the High Court of <hi>Chan<g ref="char:EOLhyphen"/>cery,</hi> but that the ſame be left to be wholly Diſpoſed as the ſaid Court of <hi>Chancery</hi> ſhall Order and Provide.</p>
+            <p>And it is further Ordained, That all Per<g ref="char:EOLhyphen"/>ſons, by the ſaid Act for relief of Creditors and poor Priſoners, made Iudges, as to all Priſons and Perſons, committed to other Priſons than as before mentioned, within the reſpective Counties, Cities, and Towns Corporate, within this Common-wealth, ſhall from and after the eighth day of <hi>June,</hi> One thouſand ſix hundred fifty four, proceed in the Excecution of the ſaid Act, as to the re<g ref="char:EOLhyphen"/>leaſe of any Priſoners, in every reſpect accor<g ref="char:EOLhyphen"/>ding to the meaning of the Act, Entituled, <hi>An Act for Relief of Creditors and poor Priſoners,</hi> but not as to the Sale or Diſpoſition of any Lands or Goods but according to the Ex<g ref="char:EOLhyphen"/>planations and Alterations thereof made by this preſent Ordinance, and not otherwiſe.</p>
+            <p>
+               <pb n="381" facs="tcp:169213:6"/>
+               <!-- PDF PAGE 77 -->
+Provided alſo, That no Creditor ſhall have advantage or benefit of any Sale, as a<g ref="char:EOLhyphen"/>foreſaid, made for or towards ſatisfaction of the Debt, unleſs he give a legal Diſcharge of the whole or part of his ſaid Debt, as the Caſe requires, to be Ordered by the ſaid Iudges.</p>
+            <p>And be it further Ordained by Authority aforeſaid, That it ſhall and may be lawfull for the ſeveral Iudges Authorized by this Ordinance, upon Good and Sufficient Secu<g ref="char:EOLhyphen"/>rity taken of all ſuch of the ſaid Priſoners, as they think fit, to permit the ſaid Priſoners to go out of Priſon for ſome convenient time, the better to enable ſuch Priſoners to aſſiſt in Sale of their Eſtates, or take other Courſe for payment of their ſaid Debts, and that ſuch permiſſion of ſuch Priſoners to go out of Priſon upon Bail for the Cauſe aforeſaid, ſhall not be adjudged to be any Eſcape.</p>
+            <p>And it is laſtly hereby Ordained, That the ſaid Act for relief of Creditors and poor Pri<g ref="char:EOLhyphen"/>ſoners, and this preſent Ordinance for Expla<g ref="char:EOLhyphen"/>nation thereof, ſhall continue in force until the fifth day of <hi>October,</hi> One thouſand ſix hundred fifty four, and no longer.</p>
+            <p>Provided alwaies, That neither the ſaid Act, Entituled, <hi>An Act for relief of Creditors and poor Priſoners,</hi> nor this preſent Ordinance, nor any thing therein contained, ſhall extend, nor be conſtrued to extend to impower the Iudges aforeſaid to examine, impeach, or a<g ref="char:EOLhyphen"/>void any Execution, Iudgement or Decree, had and obtained againſt ſuch Priſoner or o<g ref="char:EOLhyphen"/>ther perſon herein intended, ſave only ſo far
+<pb n="382" facs="tcp:169213:7"/>
+               <!-- PDF PAGE 78 -->as to examine what is due thereupon.</p>
+            <p>Provided alſo, That this Ordinance or a<g ref="char:EOLhyphen"/>ny thing therein contained, ſhall not extend or be conſtrued to extend to impower the Iud<g ref="char:EOLhyphen"/>ges aforeſaid to make Sale of any the Lands formerly by the ſaid Act, Entituled, <hi>An Act for Relief of Creditors and poor Priſoners,</hi> exem<g ref="char:EOLhyphen"/>pted from Sale.</p>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <opener>
+               <dateline>
+                  <date>Fryday June 9. 1654.</date>
+               </dateline>
+            </opener>
+            <p>ORdered by his Highneſs the Lord Protector, and His Council, That this Ordinance be forthwith Printed and Publiſhed.</p>
+            <closer>
+               <signed>
+                  <hi>Henry Scobell,</hi> Clerk of the Council.</signed>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
